@@ -1,0 +1,96 @@
+{
+  "business_name": "Maid In California",
+  "tagline": "Cleaning All of Orange County Since 1990",
+  "phone": "(714) 505-0900",
+  "email": "maid@maidincalifornia.com",
+  "address": null,
+  "city": "Orange County, CA",
+  "established": "1990",
+  "office_hours": "Mon-Fri: 9am-4:30pm, Sat-Sun: Closed",
+  "cleaning_hours": "7 Days / Week",
+  "about": "Let's face it, life can be messy, and a clean environment enhances all of our lives' experiences — be it at work or home. It is an irrefutable truth that cleanliness is essential for good health. That's why you've come to the right place. Maid In California is simply the best cleaning service. Look no further…Maid In California is here to clean up whatever mess you find yourself in. And for your added convenience — we are at your service 7 days a week! Maid In California has been serving folks like you in Orange County since 1990 — that's more than 28 years…and counting! We are your total cleaning solution. Our teams have the experience, skills and equipment to customize every job according to your needs and your schedule.",
+  "independent_note": "Maid In California is not a franchise nor a chain. We're an independent, small business. That's why we're able to deliver personal, customized, one of a kind 'white glove' service and a friendly voice every time you call.",
+  "services": [
+    {
+      "name": "House Cleaning",
+      "description": "Need a one-time cleaning, or regularly scheduled cleanings? We are here to serve you!",
+      "icon": "assets/images/icon-house.png"
+    },
+    {
+      "name": "Commercial Cleaning",
+      "description": "Whether you have a retail store, office, studio, house of worship, or an auto showroom, you can count on us!",
+      "icon": "assets/images/icon-commercial.png"
+    },
+    {
+      "name": "Post Construction Cleaning",
+      "description": "A freshly remodeled home should look shiny and new. We'll make your site sparkle and shine!",
+      "icon": "assets/images/icon-construction.png"
+    },
+    {
+      "name": "Hoarded House Cleaning",
+      "description": "Maid In California provides expert and seasoned advice, and complete cleaning services for hoarded home situations.",
+      "icon": "assets/images/icon-hoarder.png"
+    },
+    {
+      "name": "Realtors / Property Managers",
+      "description": "When you are ready to market your house, apartment or commercial property, Maid In California is too. (Member of OCAR and PWR)",
+      "icon": "assets/images/icon-realtors.png"
+    },
+    {
+      "name": "Add-on Services",
+      "description": "We go out of our way to make your life easier. We can take care of all your household chores! Window washers, carpet, tile and grout cleaners.",
+      "icon": "assets/images/icon-additional.png"
+    }
+  ],
+  "staff_quality": "Our staff is comprised of seasoned professionals. Each with at least 5 years of cleaning experience, we've thoroughly checked their background and product knowledge. Their communication skills are also top-notch so that you will always feel comfortable and you can be assured of all instructions being carried out to complete satisfaction.",
+  "testimonials": [
+    {
+      "text": "I had Maid In California clean up a home in Long Beach that I sold to one of my clients. [Debbie] was tremendously helpful in scheduling our appointment and I thought the service was elite and the price was more than reasonable. Whether I need the service for a client or for my own home in the future, I will always make sure to call Debbie. She is extremely nice and a pleasure to work with.",
+      "source": "Realtor",
+      "photo": "assets/images/testimony-realtor.jpg"
+    },
+    {
+      "text": "I have to tell you that I'm very particular about who I let in my house and especially who cleans my house when I'm gone. With that said I feel so very comfortable with Debbie and her team, from the beginning they've made me feel like they're my family… Thank you Debbie and Maid In California for saving me time and taking the everyday stress away from being a slave to my house. You have a customer for life right here",
+      "source": "Anaheim, CA",
+      "photo": "assets/images/testimony-mom.jpg"
+    },
+    {
+      "text": "Maid in California is absolutely the best cleaning service I have ever used. Being in the painting business for over 20 years, I have used several post construction cleaning services over the years; and by far Debbie and her crew at Maid in California have always exceeded my expectations, as well as my customers who I work for. Thank you very much, Debbie! You and your Team are awesome to the last detail.",
+      "source": "Long Beach, CA",
+      "photo": "assets/images/testimony-painter.jpg"
+    }
+  ],
+  "service_area": {
+    "north_oc": ["Brea", "Yorba Linda", "Anaheim Hills", "Fullerton", "Placentia"],
+    "central_oc": ["Orange", "Santa Ana", "Tustin", "Irvine", "Lake Forest", "Mission Viejo"],
+    "south_oc": ["Laguna Hills", "Laguna Beach", "Laguna Woods", "Long Beach", "Costa Mesa", "Fountain Valley", "Huntington Beach", "San Clemente", "Corona", "Riverside"]
+  },
+  "brand_colors": {
+    "primary": "#2d7fc1",
+    "secondary": "#1a5587"
+  },
+  "images_downloaded": [
+    "assets/images/logo-horizontal.png",
+    "assets/images/logo.png",
+    "assets/images/icon-commercial.png",
+    "assets/images/icon-additional.png",
+    "assets/images/icon-hoarder.png",
+    "assets/images/icon-house.png",
+    "assets/images/icon-construction.png",
+    "assets/images/icon-realtors.png",
+    "assets/images/team.jpg",
+    "assets/images/shower-before.jpg",
+    "assets/images/shower-after.jpg",
+    "assets/images/wood-floor.jpg",
+    "assets/images/fridge-clean.jpg",
+    "assets/images/kids-room.jpg",
+    "assets/images/oven-clean.jpg",
+    "assets/images/room-clean.jpg",
+    "assets/images/bathroom-sink.jpg",
+    "assets/images/testimony-painter.jpg",
+    "assets/images/testimony-realtor.jpg",
+    "assets/images/testimony-mom.jpg",
+    "assets/images/favicon.gif"
+  ],
+  "scraping_notes": "Divi WordPress site with JS rendering. Most content extracted via raw HTML parsing. Site uses websitecdn.net CDN for images. Phone (714) 505-0900 and email maid@maidincalifornia.com confirmed. Owner named Debbie mentioned in testimonials. Business established 1990. Member of OCAR and PWR (realtor associations). All 21 images downloaded from original site."
+}
